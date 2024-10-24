@@ -2,7 +2,7 @@
 - 👀 I’m interested in Creating new projects in nodejs
 - 🌱 I’m currently learning backend with nodejs
 - 💞️ I’m looking to collaborate on some projects
-- 📫 my mail me on: its.mathmanish@gmail.com
+- 📫 my mail : its.mathmanish@gmail.com
   
 - ⚡ Fun fact: ...
 
