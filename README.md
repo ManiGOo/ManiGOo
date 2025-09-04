@@ -16,8 +16,8 @@
 
 ## 📌 Featured Projects
 🌐 [**FeedApp**](https://github.com/ManiGOo/feedAPP) – A microblogging platform like X.com, realtime update with CRUD operations.
-📦 [**Inventofy**](https://github.com/yourusername/inventofy) – Inventory management web app with CRUD features  
-🚗 [**3D E-Commerce Website**](https://github.com/yourusername/3d-ecom) – Web shop with 3D rotating car animations using Three.js  
+📦 [**Inventofy**](📦 [**Inventofy**](https://github.com/yourusername/inventofy) – Inventory management web app with CRUD features  ) – Inventory management web app with CRUD features.
+🚗 [**3D E-Commerce Website**](https://github.com/yourusername/3d-ecom) – Web shop with 3D rotating car animations using Three.js.
 
 ---
 
@@ -29,5 +29,4 @@
 ---
 
 ## 🤝 Connect with Me
-- LinkedIn: [My Profile](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="manishforyou" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/manishforyou?trk=profile-badge">Manish Nath</a></div>
-              )  
+- LinkedIn: [My Profile](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="manishforyou" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/manishforyou?trk=profile-badge">Manish Nath</a></div>)  
