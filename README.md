@@ -1,11 +1,11 @@
 # Hi 👋, I'm Manish
 
-🚀 Final-year Computer Science student passionate about **Cloud Computing** and **Modern Web Development**.  
-💡 I love building scalable web apps, experimenting with cloud solutions, and crafting interactive user experiences.  
+Final-year Computer Science student passionate about **Cloud Computing** and **Modern Web Development**.  
+I love building scalable web apps, experimenting with cloud solutions, and crafting interactive user experiences.  
 
 ---
 
-## 🔨 Tech Stack
+## Tech Stack
 - **Languages:** Java | Python | JavaScript | C/C++  
 - **Frontend:** React | TailwindCSS | HTML | CSS  
 - **Backend:** Node.js | Express.js | Django | FastAPI
@@ -14,10 +14,10 @@
 
 ---
 
-## 📌 Featured Projects
-🌐 [**FeedApp**](https://github.com/ManiGOo/feedAPP) – A microblogging platform like X.com, realtime update with CRUD operations.
-📦 [**Inventofy**](📦 [**Inventofy**](https://github.com/yourusername/inventofy) – Inventory management web app with CRUD features  ) – Inventory management web app with CRUD features.
-🚗 [**3D E-Commerce Website**](https://github.com/yourusername/3d-ecom) – Web shop with 3D rotating car animations using Three.js.
+##  Featured Projects
+ [**FeedApp**](https://github.com/ManiGOo/feedAPP) – A microblogging platform like X.com, realtime update with CRUD operations.
+ [**Inventofy**]( [**Inventofy**](https://github.com/yourusername/inventofy) – Inventory management web app with CRUD features  ) – Inventory management web app with CRUD features.
+ [**3D E-Commerce Website**](https://github.com/yourusername/3d-ecom) – Web shop with 3D rotating car animations using Three.js.
 
 ---
 
