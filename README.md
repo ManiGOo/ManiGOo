@@ -1,4 +1,4 @@
-# Hi 👋, I'm [ManiGOo]  
+# Hi 👋, I'm Manish
 
 🚀 Final-year Computer Science student passionate about **Cloud Computing** and **Modern Web Development**.  
 💡 I love building scalable web apps, experimenting with cloud solutions, and crafting interactive user experiences.  
@@ -8,7 +8,7 @@
 ## 🔨 Tech Stack
 - **Languages:** Java | Python | JavaScript | C/C++  
 - **Frontend:** React | TailwindCSS | HTML | CSS  
-- **Backend:** Node.js | Express.js  
+- **Backend:** Node.js | Express.js | Django | FastAPI
 - **Databases:** MySQL | PostgreSQL | MongoDB  
 - **Tools:** Git/GitHub | Docker | REST APIs | Cloud Platforms  
 
