@@ -1,12 +1,11 @@
 # Hi 👋, I'm Manish
 
-Final-year Computer Science student passionate about **Cloud Computing** and **Modern Web Development**.  
-I love building scalable web apps, experimenting with cloud solutions, and crafting interactive user experiences.  
+  I love building scalable web apps, experimenting with cloud solutions, and crafting interactive user experiences.  
 
 ---
 
 ## Tech Stack
-- **Languages:** Java | Python | JavaScript | C/C++  
+- **Languages:** Python | JavaScript | C/C++  
 - **Frontend:** React | TailwindCSS | HTML | CSS  
 - **Backend:** Node.js | Express.js | Django | FastAPI
 - **Databases:** MySQL | PostgreSQL | MongoDB  
