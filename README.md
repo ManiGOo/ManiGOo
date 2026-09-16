@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - [**FeedApp**](https://github.com/ManiGOo/feedAPP) – A microblogging platform like X.com featuring real-time updates and CRUD operations.
 - [**Inventofy**](https://github.com) – An inventory management web app built with full CRUD features.
