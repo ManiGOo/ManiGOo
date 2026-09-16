@@ -13,10 +13,11 @@
 
 ---
 
-##  Featured Projects
- [**FeedApp**](https://github.com/ManiGOo/feedAPP) – A microblogging platform like X.com, realtime update with CRUD operations.
- [**Inventofy**]( [**Inventofy**](https://github.com/yourusername/inventofy) – Inventory management web app with CRUD features  ) – Inventory management web app with CRUD features.
- [**3D E-Commerce Website**](https://github.com/yourusername/3d-ecom) – Web shop with 3D rotating car animations using Three.js.
+## 🚀 Featured Projects
+
+- [**FeedApp**](https://github.com/ManiGOo/feedAPP) – A microblogging platform like X.com featuring real-time updates and CRUD operations.
+- [**Inventofy**](https://github.com) – An inventory management web app built with full CRUD features.
+- [**3D E-Commerce Website**](https://github.com) – A web shop showcasing 3D rotating car animations using Three.js.
 
 ---
 
