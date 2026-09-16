@@ -20,12 +20,6 @@
 
 ---
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManiGOo&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManiGOo&layout=compact&theme=tokyonight)  
-
----
 
 ## 🤝 Connect with Me
 - LinkedIn: [My Profile](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="manishforyou" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/manishforyou?trk=profile-badge">Manish Nath</a></div>)  
