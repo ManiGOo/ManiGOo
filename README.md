@@ -22,4 +22,6 @@
 
 
 ## 🤝 Connect with Me
-- LinkedIn: [My Profile](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="manishforyou" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/manishforyou?trk=profile-badge">Manish Nath</a></div>)  
+
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/manigoo/)
+- **Email:** [me.nathmanish@gmail.com](mailto:me.nathmanish@gmail.com)
